@@ -1,0 +1,2 @@
+# Development-of-a-Real-Time-Multi-Stream-Water-Quality-Monitoring-System
+Quality monitoring is crucial for environmental protection, public health, and ecosystem sustainability. With increasing pressures from urbanization, agricultural runoff, and climate change, robust data-driven approaches are essential for early detection of water quality degradation and informed decision-making in environmental conservation efforts
